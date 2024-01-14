@@ -16,7 +16,7 @@
 
 .container{
     width: 960px;
-    height: 83vh;
+    height: 85vh;
     background-color: white;
     position: relative;
     top: 10%;
@@ -35,7 +35,7 @@
 .left{
     width: 50%;
     background-image: url(../images/fatih-kgqu_qs3B78-unsplash.jpg);
-    height: 83vh;
+    height: 85vh;
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(255, 255, 255);
@@ -83,7 +83,7 @@
 
 .right{
     width: 50%;
-    height: 80vh;
+    height: 85vh;
    padding: 60px;
 }
 
